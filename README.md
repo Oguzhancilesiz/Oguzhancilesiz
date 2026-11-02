@@ -26,7 +26,7 @@ Online kişisel antrenörlük platformu. Canlıda, gerçek kullanıcıları var.
 
 ## 🛠️ Teknolojiler
 
-**Backend:** C#, .NET (ASP.NET Core Web API ve MVC), Entity Framework Core, SQL Server, SignalR, Identity, JWT, Worker Service
-**Frontend:** TypeScript, React, Next.js, Tailwind CSS
-**Mobil:** Expo / React Native, .NET MAUI
-**Diğer:** PHP, Git, Railway, Supabase
+- **Backend:** C#, .NET (ASP.NET Core Web API ve MVC), Entity Framework Core, SQL Server, SignalR, Identity, JWT, Worker Service
+- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
+- **Mobil:** Expo / React Native, .NET MAUI
+- **Diğer:** PHP, Git, Railway, Supabase
