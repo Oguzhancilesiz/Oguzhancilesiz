@@ -30,3 +30,7 @@ Online kişisel antrenörlük platformu. Canlıda, gerçek kullanıcıları var.
 - **Frontend:** TypeScript, React, Next.js, Tailwind CSS
 - **Mobil:** Expo / React Native, .NET MAUI
 - **Diğer:** PHP, Git, Railway, Supabase
+
+## 📫 İletişim
+
+[LinkedIn](https://www.linkedin.com/in/o%C4%9Fuzhan-%C3%A7ilesiz/) · [ptfraoula.com](https://ptfraoula.com)
